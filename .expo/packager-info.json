@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 3807,
+  "expoServerNgrokUrl": "https://hu-uia.rajeevtfi.barter-app-stage-6.exp.direct",
+  "packagerNgrokUrl": "https://packager.hu-uia.rajeevtfi.barter-app-stage-6.exp.direct",
+  "ngrokPid": 4006,
+  "webpackServerPort": null
+}
